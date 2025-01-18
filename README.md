@@ -4,10 +4,10 @@ I'm a passionate Data Analyst with experience in Python, R, and Power BI. I enjo
 
 Here, you'll find a collection of my projects, including:
 
-Exploratory Data Analysis (EDA)
-Data visualization and dashboards
-Business Intelligence solutions
-Applied analytics
+-Exploratory Data Analysis (EDA)
+-Data visualization and dashboards
+-Business Intelligence solutions
+-Applied analytics
 
 Feel free to explore, and let's connect to exchange ideas!
 
