@@ -12,6 +12,7 @@ Applied analytics
 Feel free to explore, and let's connect to exchange ideas!
 
 You can contact me by email: manusexto98@gmail.com
+
 Or Linkedin www.linkedin.com/in/manuelsexto
 
 
