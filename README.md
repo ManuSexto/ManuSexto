@@ -1,4 +1,4 @@
-## *Hi, I'm Manuel, welcome to my GitHub!*
+## **Hi, I'm Manuel, welcome to my GitHub!**
 
 
 I'm a passionate Data Analyst with experience in Python, R, and Power BI. I enjoy solving complex problems through data, creating impactful visualizations, and delivering actionable insights.
